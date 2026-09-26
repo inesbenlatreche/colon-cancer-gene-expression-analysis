@@ -137,8 +137,7 @@ colon-cancer-gene-expression-analysis/
 ├── data/
 │   └── README.md
 │
-└── notebooks/
-    └── dami2projectfinal.ipynb
+└── notebook
 ```
 
 ---
